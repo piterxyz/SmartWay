@@ -1,0 +1,22 @@
+{
+    "expo": {
+        "name": "SmartHome",
+        "slug": "smarthome",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "userInterfaceStyle": "dark",
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "package": "com.piterxyz.smarthome"
+        },
+        "extra": {
+            "eas": {
+                "projectId": "694c5c17-d397-4537-a0cd-6fc3e9abfe53"
+            }
+        },
+        "owner": "piterxyz"
+    }
+}
